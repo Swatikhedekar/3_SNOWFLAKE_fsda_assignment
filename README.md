@@ -1,2 +1,1 @@
-# mysql for machine learning
-Practice mysql from Full Stack Data Analyst classes.
+# sql assignment of FSDA fromineuron
