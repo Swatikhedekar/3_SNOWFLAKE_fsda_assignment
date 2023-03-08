@@ -1,1 +1,1 @@
-# sql assignment of FSDA fromineuron
+# sql assignment of FSDA from ineuron
